@@ -1,0 +1,5 @@
+NAME="sugar-CartoonBuilder"
+VERSION=11
+RELEASE=2
+SUGAR_TYPE="Honey"
+inherit sugar
